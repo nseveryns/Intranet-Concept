@@ -1,4 +1,4 @@
-#Intranet Relay Authentication
+# Intranet Relay Authentication
 A typical internet relay verifies using an ip address
 Intranet works the same as a regular internet connection except all endpoints are restricted.
 An endpoint that is not on the network doesn't fit into the paradigm.
